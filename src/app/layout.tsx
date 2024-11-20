@@ -9,7 +9,7 @@ import "./globals.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "Sindhi Zaika",
+  title: "Sindhi Zaika Restaurant",
   description: "Welcome to our Sindhi Zaika restaurant",
 };
 
